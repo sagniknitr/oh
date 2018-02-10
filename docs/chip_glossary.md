@@ -41,7 +41,7 @@ Chip Design Glossary
 * [Flash](https://en.wikipedia.org/wiki/Flash_memory): Non-volatile semiconductor memory
 * [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform): Fast Fourier transform
 * [FPU](https://en.wikipedia.org/wiki/Floating_point): Floating point unit
-* [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output): IO controllable at run time
+* [GPIO](https://en.wikipedia.org/wiki/General-purpose_input/output): General purpose input output, controllable at run time
 * [Gray code](https://en.wikipedia.org/wiki/Gray_code): Binary system where successive values differ by one bit
 * [HBM](https://en.wikipedia.org/wiki/High_Bandwidth_Memory): High bandwidth memory
 * [I2C](https://en.wikipedia.org/wiki/I%C2%B2C): Multi-master 2 wire bus
@@ -161,9 +161,9 @@ Chip Design Glossary
 * [Synchronous logic](https://en.wikipedia.org/wiki/Synchronous_circuit): Logic whose state is controlled by a synchronous clock.
 * [Synthesis](https://en.wikipedia.org/wiki/Logic_synthesis): Translation of high level design description (e.g. Verilog) to a netlist format (e.g. standard cell gate level).
 * [SystemC](https://en.wikipedia.org/wiki/SystemC): Set of C++ classes and macros for simulation. Commonly used for high level modeling and testing.
-* [Transistor](https://en.wikipedia.org/wiki/Transistor): A semiconductor device used to amplify/switch electronic signals.
 * [Tape-out](https://en.wikipedia.org/wiki/Tape-out): Act of sending photomask chip database ("layout") to the manufacturer.
 * [TCL](https://en.wikipedia.org/wiki/Tcl): Scripting language used by most of the leading EDA chip design tools.
+* [Transistor](https://en.wikipedia.org/wiki/Transistor): A semiconductor device used to amplify/switch electronic signals.
 * [Verilog](https://en.wikipedia.org/wiki/Verilog): The dominant hardware description language (HDL) for chip design.
 * [VLSI](https://en.wikipedia.org/wiki/Very-large-scale_integration): Very large Integrated Circuit (somewhat outdated term, everything is VLSI today).
 * [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture): Computer architecture in which instructions and data are stored in the same memory.
